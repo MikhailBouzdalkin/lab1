@@ -37,6 +37,12 @@ public class Music {
         this.count = count;
         this.download = download;
     }
-    public static void main(String[] args){}
+    public static void main(String[] args){
+
+
+
+
+        
+    }
 
 }
